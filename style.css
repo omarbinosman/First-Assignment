@@ -40,6 +40,7 @@ body{
 
 .about-mission{
                 margin-left: 74px;
+                padding-right: 30px;
 }
 .analyze-more{
                 margin-left: 70px;
@@ -187,6 +188,7 @@ body{
         width: 446px;
         margin-left: 100px;
         margin-top: 25px;
+        border-radius: 25px;
 }
 .omarbinosman{color: gray;
     
